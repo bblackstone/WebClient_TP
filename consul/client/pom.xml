@@ -17,8 +17,11 @@
 	<licenses>
 		<license/>
 	</licenses>
-	<developers>
-		<developer/>
+		<developers>
+		<developer>
+			<name>Ahmed Elmessaoudi</name>
+			<email>elmessaoudi759@gmail.com</email>
+		</developer>
 	</developers>
 	<scm>
 		<connection/>
